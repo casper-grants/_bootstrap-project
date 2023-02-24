@@ -1,0 +1,63 @@
+name: Progress Report
+description: Submit Project's Progress Report
+title: "[Progress Report] <title>"
+labels: [Report, Needs Triage]
+body:
+- type: dropdown
+  id: reporttype
+  attributes:
+    label: Report Type - Weekly Report / Milestone Report?
+    description: Who is your Granter?
+    multiple: false
+    options:
+    - Weekly
+    - Milestone
+    validations:  
+      required: true
+- type: textarea
+  id: milestonenumber
+  attributes:
+    label: Milestone Number
+    description: Please share the Milestone Number if this is a Milestone Status Report.
+  validations:
+    required: false
+- type: textarea
+  id: headlineupdate
+  attributes:
+    label: Headline Update
+    description: A concise update on the overall current status of the project/milestone.
+  validations:
+    required: true 
+- type: textarea
+  id: highlights
+  attributes:
+    label: Highlights
+    description: Please specify Highlights for the reporting period / Milestone
+  validations:
+    required: true
+- type: textarea
+  id: riskschallenges
+  attributes:
+    label: Risks / Challenges
+    description: Please specify any risks / challenges that is impacting the Project / Milestone
+  validations:
+    required: true    
+- type: textarea
+  id: artefacts
+  attributes:
+    label: Report Artefacts
+    description: |
+      Please share links to or attach artefacts for the reporting period / Milestone. 
+      
+      Artefacts include Sprint Report, Project Plan, GitHub Repository with updated code base, Test Results, Review/Audit Report
+  validations:
+    required: true        
+- type: textarea
+  attributes:
+    label: Anything else?
+    description: |
+      Links? References? Anything that will give us more context about the project!
+
+      Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+  validations:
+    required: false

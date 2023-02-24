@@ -22,3 +22,9 @@ deadline 31.03.2023
 deadline 30.04.2023
 
 [progress report](m2-report.md)
+
+
+Dev's ideas
+Issue Template for submitting the project entry request
+Issue Template for submitting Milestones
+Progress Report Template
