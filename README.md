@@ -17,6 +17,6 @@ If you want to check more projects from Casper Ecosystem please visit our casper
 
 ## Active Grants
 
-[Fondant](grants/793_Fondant)
+[Fondant](793_Fondant)
 
 
