@@ -17,9 +17,9 @@ Grant link
 ### M1
 deadline 31.03.2023
 
-[progress report](m1-report.md)
+[progress report](m1.md)
 
 ### M2
 deadline 30.04.2023
 
-[progress report](m2-report.md)
+[progress report](m2.md)
