@@ -1,24 +1,22 @@
-# Bootstrap project template
+# Casper Grant Program
 
-## Description
+About: https://casper.network/accelerate
+
+## Introduction
+
+In this repository you will find all the accepted grants with their up to date status reports. Association together with the grantees keep the data aligned to the milestones and assumed timeline.
 
 
-## DEVxDAO
+### DEVxDAO
 
-Grant link
+You will find these projects also on [DEVxDAO](DEVxDAO.org) portal.
 
-## casperecosystem.io
+### casperecosystem.io
 
-Grant link
+If you want to check more projects from Casper Ecosystem please visit our casperecosystem.io page.
 
-## Milestones
+## Active Grants
 
-### M1
-deadline 31.03.2023
+[Fondant](grants/793_Fondant)
 
-[progress report](m1-report.md)
 
-### M2
-deadline 30.04.2023
-
-[progress report](m2-report.md)
