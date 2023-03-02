@@ -32,12 +32,12 @@ deadline 30.04.2023
 
 [M3 progress report](m3.md)
 
-### M2
+### M4
 deadline 30.04.2023
 
 [M4 progress report](m4.md)
 
-### M2
+### M5
 deadline 30.04.2023
 
 [M5 progress report](m5.md)
