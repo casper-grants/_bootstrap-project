@@ -22,11 +22,11 @@ Sample description
 ### M1
 deadline 31.03.2023
 
-## Description
+#### Description
 
 Milestone 1 description.
 
-## Reports
+#### Reports
 
 [M1 progress report](m1.md)
 
@@ -43,32 +43,32 @@ Milestone 2 description.
 ### M3
 deadline 30.04.2023
 
-## Description
+#### Description
 
 Milestone 3 description.
 
-## Reports
+#### Reports
 
 [M3 progress report](m3.md)
 
 ### M4
 deadline 30.04.2023
 
-## Description
+#### Description
 
 Milestone 4 description.
 
-## Reports
+#### Reports
 
 [M4 progress report](m4.md)
 
 ### M5
 deadline 30.04.2023
 
-## Description
+#### Description
 
 Milestone 5 description.
 
-## Reports
+#### Reports
 
 [M5 progress report](m5.md)
