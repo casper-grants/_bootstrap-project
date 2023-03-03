@@ -24,6 +24,8 @@ deadline 31.03.2023
 
 ## Description
 
+Milestone 1 description.
+
 ## Reports
 
 [M1 progress report](m1.md)
@@ -31,6 +33,8 @@ deadline 31.03.2023
 ### M2
 deadline 30.04.2023
 ## Description
+
+Milestone 2 description.
 
 ## Reports
 
@@ -41,6 +45,8 @@ deadline 30.04.2023
 
 ## Description
 
+Milestone 3 description.
+
 ## Reports
 
 [M3 progress report](m3.md)
@@ -50,6 +56,8 @@ deadline 30.04.2023
 
 ## Description
 
+Milestone 4 description.
+
 ## Reports
 
 [M4 progress report](m4.md)
@@ -58,6 +66,8 @@ deadline 30.04.2023
 deadline 30.04.2023
 
 ## Description
+
+Milestone 5 description.
 
 ## Reports
 
