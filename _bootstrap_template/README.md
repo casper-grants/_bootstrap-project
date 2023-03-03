@@ -26,6 +26,9 @@ deadline 31.03.2023
 
 Milestone 1 description.
 
+#### Acceptance criteria
+
+
 #### Reports
 
 [M1 progress report](m1.md)
@@ -35,6 +38,9 @@ deadline 30.04.2023
 ## Description
 
 Milestone 2 description.
+
+#### Acceptance criteria
+
 
 ## Reports
 
@@ -47,6 +53,8 @@ deadline 30.04.2023
 
 Milestone 3 description.
 
+#### Acceptance criteria
+
 #### Reports
 
 [M3 progress report](m3.md)
@@ -58,6 +66,9 @@ deadline 30.04.2023
 
 Milestone 4 description.
 
+#### Acceptance criteria
+
+
 #### Reports
 
 [M4 progress report](m4.md)
@@ -68,6 +79,9 @@ deadline 30.04.2023
 #### Description
 
 Milestone 5 description.
+
+#### Acceptance criteria
+
 
 #### Reports
 
