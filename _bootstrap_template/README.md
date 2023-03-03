@@ -7,13 +7,15 @@ Sample description
 
 **Grant Accepted** / In progress / Completed
 
-## DEVxDAO
+## Links
 
-[Grant link]()
+- DEVxDAO [Grant link]()
 
-## casperecosystem.io
+- casperecosystem.io[Grant link]()
 
-[Grant link]()
+- public project chat
+
+- company / project twitter account
 
 ## Milestones
 
