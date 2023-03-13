@@ -39,7 +39,7 @@ Details of what will be delivered:
 ### M2 - Open source tooling for NFT gated storefront buildouts (200 hours)
 deadline 31.01.2023
 
-## Description
+#### Description
 
 Details of what will be delivered: 
 - UI for storefront build outs and embeddables - ReactJS 
