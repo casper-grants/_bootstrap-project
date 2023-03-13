@@ -51,7 +51,7 @@ Details of what will be delivered:
 
 Live deployment of CasperPunks Shop for initial testing and team feedback
 
-## Reports
+#### Reports
 
 [M2 progress report](m2.md)
 
