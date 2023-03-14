@@ -20,5 +20,6 @@ If you want to check more projects from Casper Ecosystem please visit our casper
 - [XP.NETWORK](719_XP.NETWORK)
 - [Fondant](793_Fondant)
 - [Gameswift](774_GameSwift)
+- [Dappium](805_Dappium)
 
 
